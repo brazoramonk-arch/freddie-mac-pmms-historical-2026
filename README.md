@@ -17,3 +17,12 @@ For real-time rate calculation and PITI breakdown by city, visit [Amortio](https
 ## Disclaimer
 
 Reference data only. Actual rates depend on credit score, LTV, and lender. Get personalized quotes from licensed lenders.
+
+## Try the Calculators
+
+Free, no-signup mortgage tools that use the data sources documented here:
+
+- [Refinance Calculator](https://www.amortio.com/refinance-calculator/)
+- [Rate Lock Calculator](https://www.amortio.com/rate-lock-calculator/)
+- [Affordability Calculator](https://www.amortio.com/affordability-calculator/)
+
